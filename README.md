@@ -10,3 +10,6 @@ region, and age. Using various Excel functions and techniques, I curated the dat
 of insightful charts, shedding light on buyer behavior, areas of improvement, and the company's existing successes.
 
 ***Skills Used: Excel, Data Cleaning, Pivot Tables, Charts, MAX/MIN, SUMIF, IFS, TRIM, COUNT***
+
+This excel project has been created with the help of the following tutorial:
+https://youtu.be/opJgMj1IUrc
